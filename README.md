@@ -39,6 +39,6 @@ If you find any issues with the application or have suggestions for improvement,
 
 ## About the Author
 
-This language translator web application is developed and maintained by [Venkateeshh](https://github.com/nana-kwao). I am a passionate web developer with a keen interest in building useful and innovative projects using various web technologies.
+This language translator web application is developed and maintained by [nana-kwao](https://github.com/nana-kwao). I am a passionate web developer with a keen interest in building useful and innovative projects using various web technologies.
 
 
