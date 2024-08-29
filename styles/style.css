@@ -137,8 +137,8 @@ body.dark {
 }
 
 .dropdown-container .dropdown-menu::-webkit-scrollbar {
-  display: inline;
-  width: 10px;
+  display: inline !important;
+  width: 10px !important; 
 }
 
 .dropdown-container.active .dropdown-menu {
